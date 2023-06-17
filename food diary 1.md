@@ -1,3 +1,5 @@
+#food diary 1
+
 | Food  | Amount | Time of day | symptoms | mood, thoughts |
 | ------------- | ------------- |------------- |------------- |
 | "This is Food" | 250 ml  | 0630 | | 
