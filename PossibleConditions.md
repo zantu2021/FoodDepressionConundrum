@@ -8,3 +8,7 @@
 
 * Coeliac Disease - Immune system attacks the gut lining when gluten is consumed. Gluten is part of the lectin family and I suspect that the condition would be still active, even if not as strongly, when the person keeps eating seeds.
 ** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8767653/
+
+* Poisoning
+  ** Lead Poisoning from additives, in this case Lead: https://stanmed.stanford.edu/turmeric-lead-risk-detect/
+  *** https://news.ycombinator.com/item?id=36481693 
