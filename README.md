@@ -1,5 +1,8 @@
 # FoodDepressionConundrum
-Trying to figure out the connection between depression and food
+The purpose of this Repo is: Trying to figure out the connection between my depression and food
+
+# The symptoms
+I do fine on meat and water and the occasional espresso with milk for weeks on end. When I try to mix in vegetables or carbohydrates, or refined sugar it takes about 4 days until depression is back and I'm haunted with suicidal thoughts, feelings of worthlessness, no energy, no emotions or too much emotion at once. Crying, paranoia and so on. The delayed reaction seems to point in the direction of fermentation in the gut or some sort of allergic reaction. (Allergy Test came back negative). Not always, but sometimes I get pain in my knee joints and more lower back pain as well. (I work sitting all day long i I'm not mindful). In 2017 - 2019 there would also be shortness of breath, but that didn't return at some point. 
 
 # Life Story, lots of trauma, lots of reasons for depression
 Domestic Violence at home before I got to elementary school, violence then stopped.
