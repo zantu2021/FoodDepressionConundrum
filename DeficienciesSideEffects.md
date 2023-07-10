@@ -10,6 +10,7 @@
 * Vitamin D - Low Vitamin D status is associated with higher inflammation: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287169
   * Deficiency is associated with bone and muscle problems https://my.clevelandclinic.org/health/diseases/15050-vitamin-d-vitamin-d-deficiency
   * Interestingly enough, deficiency seems to be connected to gut problems
+  * Animals that have graced in the sun have more Vitamin D in their fatty tissue. That's a good reason for happy cattle, pork and poultry. 
 
 
 
