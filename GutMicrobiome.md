@@ -29,3 +29,4 @@ https://theconversation.com/newly-discovered-species-of-bacteria-in-the-microbio
 - Camembert, french soft cheese with edible mold. It's rich n calcium and low in lactose. Still I want to eat a lot of it if I start with a bite.
 - sauerkraut - one teaspoon seems to be okay for a while, then I'll get anxiety after two weeks or so. So I recon that there's a critical threshold, just don't know where it is. 
 - Ashuaganda leafs/powder - heartburn, didn't try again
+- Sucralose (artificial sweetener) - seems to make me unreasonably angry
