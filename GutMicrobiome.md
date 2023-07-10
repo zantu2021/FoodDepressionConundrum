@@ -1,6 +1,13 @@
+
 # The Gut Microbiome
 
-# Personal accounts of fods before bed
+# The Gut Mycobiome
+* https://www.sciencedirect.com/science/article/pii/S1438422121000199
+
+
+## Personal accounts
+
+# Personal accounts of foods before bed
 * certain brand of Kefir - Slapstick zombie dreams - hungry a lot
 * certain type of gut flora supplement - Space travel dreams, floating in space, fighting in space - I'm hungry all the time
 * camembert - vivid yet nonsensical dreams - not as hungry, but something happening with blood sugar
