@@ -3,6 +3,10 @@
   * "Air fryers generally do not give off toxic fumes, but the non-stick coating called Teflon or PTFE used in some air fryers can release toxic gases when heated above 536 degrees Fahrenheit."
 * Anti-Nutrients from plant based food https://github.com/cutestuff/FoodDepressionConundrum/blob/main/Anti%20Nutrients
 * PFAS - Everything is wrapped in plastics nowadays https://www.webmd.com/a-to-z-guides/what-is-pfas
+* mold, mycotoxins - https://www.who.int/news-room/fact-sheets/detail/mycotoxins
+  * From memory: I just remember a picture from the inside of one of these round trucks that transport flour. It was completely moldy from the inside, and the reporter said something like: The EU doesn't give a schedule, it just demands that it be cleaned regularly, but not something like: once a week, once a month - I don't know anything about the regulation these days. https://ncbi.nlm.nih.gov/pmc/articles/PMC4006174/
+  * The worrying part is, that there aren't many anti-fungals out there, and the use on the fields might create resistance to the few that we have.
+  * Fungicides are used in big agriculture and might have negative impact on the gut mycobiome when ingested. Not much to be found for this theory. 
 
 
 # not directly linked with mental health but otherwise toxic
