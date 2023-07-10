@@ -9,7 +9,5 @@
 * Coeliac Disease - Immune system attacks the gut lining when gluten is consumed. Gluten is part of the lectin family and I suspect that the condition would be still active, even if not as strongly, when the person keeps eating seeds.
 ** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8767653/
 
-## Poisoning
-* Lead Poisoning from additives, in this case Lead: https://stanmed.stanford.edu/turmeric-lead-risk-detect/ | discussion: https://news.ycombinator.com/item?id=36481693
-* Arsenic Poisoning seems to be possible from too much canned sardines, much like fish when we eat to much of it, the metals will accumulate (Joe Rogan talked about this in his show a while ago)
-* Mercury Poisoning like with sardines, accumulation through swordfish
+## Poisoning - see Toxins.md
+
