@@ -3,3 +3,10 @@
   * "Air fryers generally do not give off toxic fumes, but the non-stick coating called Teflon or PTFE used in some air fryers can release toxic gases when heated above 536 degrees Fahrenheit."
 * Anti-Nutrients from plant based food https://github.com/cutestuff/FoodDepressionConundrum/blob/main/Anti%20Nutrients
 * PFAS - Everything is wrapped in plastics nowadays https://www.webmd.com/a-to-z-guides/what-is-pfas
+
+
+# not directly linked with mental health but otherwise toxic
+* Benzene in sunscreen https://www.valisure.com/valisure-newsroom/valisure-detects-benzene-in-sunscreen
+  * gets absorbed through the skin quickly: https://pubmed.ncbi.nlm.nih.gov/10828140/
+  * somehow finds its way into other beauty products: https://www.harpersbazaar.com/beauty/hair/a41912073/benzene-in-beauty-products-explained/
+    
