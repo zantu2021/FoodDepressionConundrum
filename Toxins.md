@@ -35,3 +35,4 @@
   * gets absorbed through the skin quickly: https://pubmed.ncbi.nlm.nih.gov/10828140/
   * somehow finds its way into other beauty products: https://www.harpersbazaar.com/beauty/hair/a41912073/benzene-in-beauty-products-explained/
 * PFAS - Everything is wrapped in plastics nowadays https://www.webmd.com/a-to-z-guides/what-is-pfas
+* PET Plastics ending up in groundwater supply https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8755403/
