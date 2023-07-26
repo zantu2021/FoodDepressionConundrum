@@ -14,7 +14,9 @@
 * Rodenticides
 * Fungicides
 * Insecticides
-* 
+* Ripening agents https://extension.umd.edu/resource/ethylene-and-regulation-fruit-ripening
+  * https://www.atsdr.cdc.gov/csem/ethylene-propylene-glycol/toxicological_effects.html
+  * from the atsdr article: ethylene glycol can be converted into oxolate, which is an Anti Nutrient that binds to calcium
 
 # Poisoning - Heavy Metals
 * Lead Poisoning from additives, in this case Lead: https://stanmed.stanford.edu/turmeric-lead-risk-detect/ | discussion: https://news.ycombinator.com/item?id=36481693
