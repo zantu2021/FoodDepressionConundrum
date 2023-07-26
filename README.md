@@ -9,7 +9,7 @@ Switched cities lived alone, learned a craft, followed by somewhat abusive relat
 Switched cities again, lived alone again, tried to study compsci. Saw friends every few months.
 
 # I'm 31, failed out of university
-Finally I figured I needed some kind of help, not sure what. The r/adhd subreddit told my life in a hundred stories. Smart kids failing at life.
+Summer 2012/13 Finally I figured I needed some kind of help, not sure what. The r/adhd subreddit told my life in a hundred stories. Smart kids failing at life.
 Got tested and diagnosed for add and heavy depression.
 Started therapy and strattera (psychiatrist wouldn't prescribe other things).
 Got 1 Rehab and one disability testing 50%.
