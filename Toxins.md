@@ -37,3 +37,4 @@
   * gets absorbed through the skin quickly: https://pubmed.ncbi.nlm.nih.gov/10828140/
   * somehow finds its way into other beauty products: https://www.harpersbazaar.com/beauty/hair/a41912073/benzene-in-beauty-products-explained/
 * PFAS - Everything is wrapped in plastics nowadays https://www.webmd.com/a-to-z-guides/what-is-pfas
+* Cashew nuts, toxic industry - https://www.slowfood.com/cashew-nuts-a-toxic-industry/
