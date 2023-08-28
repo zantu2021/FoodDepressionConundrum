@@ -13,3 +13,6 @@
 * https://theferret.scot/16-toxic-chemicals-scottish-fish-farmers/
 * Ripening agents https://extension.umd.edu/resource/ethylene-and-regulation-fruit-ripening
   * https://www.atsdr.cdc.gov/csem/ethylene-propylene-glycol/toxicological_effects.html
+
+## Skin and other seemingly connected conditions
+* https://archive.ph/a1383 The curious ways your skin shapes your health, BBC
