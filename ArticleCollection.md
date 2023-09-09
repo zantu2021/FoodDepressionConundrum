@@ -3,6 +3,7 @@
 * Cholesterol might be misunderstood - Dave Feldman https://cholesterolcode.com/
   * when you eat high fat low carb, you might experience high cholesterol, this might be due to some evolutionary adaptation
 * Some people can take up to 5 days to show symptoms after consuming something they don't do well with.  https://slimemoldtimemold.com/2023/04/14/n1-symptom-vs-syndrome/
+* some annecdotes about food and dementia https://news.ycombinator.com/item?id=37413566
 
 
 ## Toxins
