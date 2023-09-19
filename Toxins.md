@@ -17,6 +17,9 @@
 * Ripening agents https://extension.umd.edu/resource/ethylene-and-regulation-fruit-ripening
   * https://www.atsdr.cdc.gov/csem/ethylene-propylene-glycol/toxicological_effects.html
   * from the atsdr article: ethylene glycol can be converted into oxolate, which is an Anti Nutrient that binds to calcium
+* Chemicals used in Fish farming
+  * http://ukmpa.marinebiodiversity.org/uk_sacs/activities/water-quality/wq8_22.htm
+  * https://beyondpesticides.org/dailynewsblog/2022/05/pesticides-used-in-farmed-fish-operations-threaten-health-of-swimmers/
 
 # Poisoning - Heavy Metals
 * Lead Poisoning from additives, in this case Lead: https://stanmed.stanford.edu/turmeric-lead-risk-detect/ | discussion: https://news.ycombinator.com/item?id=36481693
