@@ -16,4 +16,7 @@
   * https://www.atsdr.cdc.gov/csem/ethylene-propylene-glycol/toxicological_effects.html
 
 ## Skin and other seemingly connected conditions
-* https://archive.ph/a1383 The curious ways your skin shapes your health, BBC
+* The curious ways your skin shapes your health, BBC https://archive.ph/a1383 
+
+## Deficiencies and modern food
+* Modern farming has reduced the mineral and vitamin contents in fruit and vegetables. https://www.youtube.com/watch?v=2H3VhsnyCdI
