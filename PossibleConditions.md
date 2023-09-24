@@ -11,5 +11,8 @@
 * Coeliac Disease - Immune system attacks the gut lining when gluten is consumed. Gluten is part of the lectin family and I suspect that the condition would be still active, even if not as strongly, when the person keeps eating seeds.
 ** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8767653/
 
+* Allergic reaction - should show up in an allergy test
+* psudoallergic reaction - might or might not show up in allergy test - sharla race on Salicylate - I don't want to link to amazon but she got a book out
+
 ## Poisoning - see Toxins.md
 
