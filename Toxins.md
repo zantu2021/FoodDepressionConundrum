@@ -43,3 +43,4 @@
   * Paperstraws https://scienceswitch.com/2023/08/27/90-of-eco-friendly-paper-straws-contain-traces-of-toxic-forever-chemicals/
   * Hot liquid paper cups are lined with PFAS and also can't be recycled
 * Cashew nuts, toxic industry - https://www.slowfood.com/cashew-nuts-a-toxic-industry/
+* High fructose corn syruo - https://www.niddk.nih.gov/news/archive/2020/how-high-fructose-intake-trigger-fatty-liver-disease
