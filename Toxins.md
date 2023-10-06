@@ -44,3 +44,5 @@
   * Hot liquid paper cups are lined with PFAS and also can't be recycled
 * Cashew nuts, toxic industry - https://www.slowfood.com/cashew-nuts-a-toxic-industry/
 * High fructose corn syruo - https://www.niddk.nih.gov/news/archive/2020/how-high-fructose-intake-trigger-fatty-liver-disease
+* Side Effects medications:
+  * https://globalnews.ca/news/10006543/ozempic-stomach-paralysis-ubc-study/
