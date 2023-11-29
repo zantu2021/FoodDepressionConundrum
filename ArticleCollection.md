@@ -5,10 +5,11 @@
 * Some people can take up to 5 days to show symptoms after consuming something they don't do well with.  https://slimemoldtimemold.com/2023/04/14/n1-symptom-vs-syndrome/
 * some annecdotes about food and dementia https://news.ycombinator.com/item?id=37413566
 
+## Brain-Gut-Connection
+* https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121
 
 ## Toxins
 * environmental toxins aren't going away anytime soon: https://www.theguardian.com/environment/2023/jul/11/eu-to-drop-ban-of-hazardous-chemicals-after-industry-pressure
-
 
 ## Side effects of chemicals used in food
 * https://theferret.scot/16-toxic-chemicals-scottish-fish-farmers/
