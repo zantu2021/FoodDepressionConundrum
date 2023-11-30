@@ -22,7 +22,7 @@
   * https://beyondpesticides.org/dailynewsblog/2022/05/pesticides-used-in-farmed-fish-operations-threaten-health-of-swimmers/
 
 # Poisoning - Heavy Metals
-* Lead Poisoning from additives, in this case Lead: https://stanmed.stanford.edu/turmeric-lead-risk-detect/ | discussion: https://news.ycombinator.com/item?id=36481693
+* Lead Poisoning from additives, in this case Lead in turmeric powder: https://stanmed.stanford.edu/turmeric-lead-risk-detect/ | discussion: https://news.ycombinator.com/item?id=36481693
   * Mental effects: Irritability, Sluggishness and fatigue, Mood disorders 
   * source: https://www.mayoclinic.org/diseases-conditions/lead-poisoning/symptoms-causes/syc-20354717
 * Mercury Poisoning like with sardines, accumulation through swordfish
