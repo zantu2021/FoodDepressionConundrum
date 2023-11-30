@@ -2,6 +2,7 @@
 
 * Candida infection seems to be connected with mental illness - https://www.hopkinsmedicine.org/news/media/releases/yeast_infection_linked_to_mental_illness
   * https://www.thecandidadiet.com/foodstoeat.htm candida likes sugar
+  * It's probably "just" there, trying to root it out is said to be pointless and we've got a limited choice with anti-fungals
 * SIBO - Small intestinal bacerial overgrowth - can cause malabsorbtion and depression as a consequence of said malabsorbtion
 
 * Refsum disease - inability to digest cholorphyl - https://en.wikipedia.org/wiki/Refsum_disease - not quite what I was looking for, keep looking
