@@ -15,5 +15,8 @@
 * Allergic reaction - should show up in an allergy test
 * psudoallergic reaction - might or might not show up in allergy test - sharla race on Salicylate - I don't want to link to amazon but she got a book out
 
+* Auto Brewery Snydrome
+** https://www.healthline.com/health/auto-brewery-syndrome#symptoms
+
 ## Poisoning - see Toxins.md
 
