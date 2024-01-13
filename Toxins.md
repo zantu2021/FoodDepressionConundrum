@@ -46,3 +46,4 @@
 * High fructose corn syruo - https://www.niddk.nih.gov/news/archive/2020/how-high-fructose-intake-trigger-fatty-liver-disease
 * Side Effects medications:
   * https://globalnews.ca/news/10006543/ozempic-stomach-paralysis-ubc-study/
+* Mycotoxins in mushrooms, all mushrooms should be cooked before eaten https://en.wikipedia.org/wiki/Agaritine
