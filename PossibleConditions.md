@@ -18,5 +18,9 @@
 * Auto Brewery Snydrome
   * https://www.healthline.com/health/auto-brewery-syndrome#symptoms
 
+# parasites
+* Toxoplasma - might cause all kinds of mental ailments, including depression https://pubmed.ncbi.nlm.nih.gov/24715687/
+
+
 ## Poisoning - see Toxins.md
 
