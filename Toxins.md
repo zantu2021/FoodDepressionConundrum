@@ -10,6 +10,7 @@
   * https://psychcentral.com/depression/can-black-mold-make-you-depressed
   * The worrying part is, that there aren't many anti-fungals out there, and the use on the fields might create resistance to the few that we have.
   * Fungicides are used in big agriculture and might have negative impact on the gut mycobiome when ingested. Not much to be found for this theory.
+  * Mould in rice an peanuts, see Page9 of this PDF, it's from the Food and Agriculture Organization of the United Nations homepage https://www.fao.org/fileadmin/user_upload/agns/pdf/CXS_193e.pdf 
 * Herbicides
 * Rodenticides
 * Fungicides
