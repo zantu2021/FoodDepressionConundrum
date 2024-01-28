@@ -12,7 +12,7 @@
   * Fungicides are used in big agriculture and might have negative impact on the gut mycobiome when ingested. Not much to be found for this theory.
   * Mould in rice an peanuts, see Page9 of this PDF, it's from the Food and Agriculture Organization of the United Nations homepage https://www.fao.org/fileadmin/user_upload/agns/pdf/CXS_193e.pdf 
 * Herbicides
-  * https://en.wikipedia.org/wiki/Roundup_(herbicide)
+  * https://www.scientificamerican.com/article/high-rates-of-suicide-depression-linked-to-farmers-use-of-pesticides/
 * Rodenticides
 * Fungicides
 * Insecticides
