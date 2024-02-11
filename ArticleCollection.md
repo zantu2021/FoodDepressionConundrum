@@ -7,6 +7,7 @@
 
 ## Brain-Gut-Connection
 * https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121
+* https://www.livescience.com/64098-bacteria-brain-microbiome.html
 
 ## Low Level Inflammation might be responsible for all kinds of ailments
 * https://www.harvardmagazine.com/2019/04/inflammation-disease-diet
