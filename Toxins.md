@@ -13,6 +13,7 @@
   * Mould in rice an peanuts, see Page9 of this PDF, it's from the Food and Agriculture Organization of the United Nations homepage https://www.fao.org/fileadmin/user_upload/agns/pdf/CXS_193e.pdf 
 * Herbicides
   * https://www.scientificamerican.com/article/high-rates-of-suicide-depression-linked-to-farmers-use-of-pesticides/
+  * https://news.ycombinator.com/item?id=39383739 Chlormequat in food and urine from adults in the United States from 2017 to 2023 | Hacker News (ycombinator.com)
 * Rodenticides
 * Fungicides
 * Insecticides
@@ -49,3 +50,4 @@
 * Side Effects medications:
   * https://globalnews.ca/news/10006543/ozempic-stomach-paralysis-ubc-study/
 * Mycotoxins in mushrooms, all mushrooms should be cooked before eaten https://en.wikipedia.org/wiki/Agaritine
+* Chemical Toxicity and the Baby Bust (2020) [[pdf] | Hacker News (ycombinator.com) https://news.ycombinator.com/item?id=39385664](https://www.gmo.com/globalassets/articles/viewpoints/2020/jg_chemical-toxicity-and-the-baby-bust_2-20.pdf)https://www.gmo.com/globalassets/articles/viewpoints/2020/jg_chemical-toxicity-and-the-baby-bust_2-20.pdf
