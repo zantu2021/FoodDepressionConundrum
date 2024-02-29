@@ -25,3 +25,6 @@
 
 ## Deficiencies and modern food
 * Modern farming has reduced the mineral and vitamin contents in fruit and vegetables. https://www.youtube.com/watch?v=2H3VhsnyCdI
+
+## Alowed Chemicals in Agriculture
+* https://www.omri.org/omri-lists/download
