@@ -1,4 +1,5 @@
-* Studying the link between the gut and mental health is personal for this scientist https://text.npr.org/1186092825
+
+
 * Fiber and the whole intestinal complex https://www.gutsense.org/
 * Cholesterol might be misunderstood - Dave Feldman https://cholesterolcode.com/
   * when you eat high fat low carb, you might experience high cholesterol, this might be due to some evolutionary adaptation
@@ -8,6 +9,12 @@
 ## Brain-Gut-Connection
 * https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121
 * https://www.livescience.com/64098-bacteria-brain-microbiome.html
+* Studying the link between the gut and mental health is personal for this scientist https://text.npr.org/1186092825
+
+## Regeneration
+* Gums and Collagen - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7570157/
+** As far as I understood, calcium needs a scaffold to attack to bones and teeth - collagen, as in gelatine, can seemingly support the regeneration of the gums, as well as some limited regeneration of the teeth 
+
 
 ## Low Level Inflammation might be responsible for all kinds of ailments
 * https://www.harvardmagazine.com/2019/04/inflammation-disease-diet
