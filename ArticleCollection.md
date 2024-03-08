@@ -36,3 +36,7 @@
 
 ## Alowed Chemicals in Agriculture
 * https://www.omri.org/omri-lists/download
+
+## Trackers
+* https://webgate.ec.europa.eu/rasff-window/screen/search - the EU is tracking Toxins and Bacteria that gets imported, very interesting
+
