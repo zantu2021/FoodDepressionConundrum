@@ -7,9 +7,9 @@ https://en.wikipedia.org/wiki/Antinutrient
 The wiki article also links to interesting topics like anti metabolites and herbicides
 
 * Amylase inhibitors 
-** starches and other complex carbohydrates aren't broken down, 
-** simple sugars aren't being broken down and absorption is prevented
-*** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4807301/ - metabolic problems and low serum amylase
+  * starches and other complex carbohydrates aren't broken down, 
+  * simple sugars aren't being broken down and absorption is prevented
+    * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4807301/ - metabolic problems and low serum amylase
 
 * Avidin (raw eggs) - inhibits the absorbtion of biotin (vitamin b7) 
 ** biotin deficiency: depression and anxiety
