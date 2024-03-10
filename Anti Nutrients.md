@@ -15,7 +15,7 @@ The wiki article also links to interesting topics like anti metabolites and herb
 ** biotin deficiency: depression and anxiety
   
 * Glucosinolates - Binds to iodine
-** iodine deficiency: anxiety and depression
+** iodine deficiency: anxiety and depression, Fatigue and low energy levels, Unexplained weight gain, Slow heart rate, Intolerance to cold temperatures, Fatigued and aching muscles, Dry and or coarse skin, Puffy face, Hair loss, Constipation, Problems with concentration
 
 * flavonoids, (polyphenolic compounds), tannins - bind to iron and zinc
 ** Iron deficiency: depression and anxiety
@@ -39,6 +39,10 @@ The wiki article also links to interesting topics like anti metabolites and herb
 ** alpha-1 antitrypsin deficiency - connected to depression, anxiety
 ** pepsin deficiency - connected to nutrient deficiencies in B12 and iron 
 ** human pancreatic lipase suppression - connected to low omega 3 fatty acids - Deficiency may also pose a risk for schizophrenia, characterized by cognitive decline, delusions, and social isolation
+
+* Thiocyanate - Binds to Iodine, converts to cyanide - Broccoli, Brussels sprouts, Cabbage, Canola, Cauliflower, Flax, Kale
+** iodine deficiency: anxiety and depression, Fatigue and low energy levels, Unexplained weight gain, Slow heart rate, Intolerance to cold temperatures, Fatigued and aching muscles, Dry and or coarse skin, Puffy face, Hair loss, Constipation, Problems with concentration, goiter
+** https://en.wikipedia.org/wiki/Thiocyanate
 
 # overconsumption of certain nutrients
 ** Calcium can inhibit iron absorbtion
