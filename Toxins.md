@@ -20,6 +20,7 @@
 * Fungicides
 * Insecticides
   * https://usrtk.org/pesticides/chlorpyrifos/ - Chlorpyrifos: Pesticide tied to brain damage in children - banned in EU in 2020, the EU imports from countries that use it, some in some US-states it's still legal, in some it's banned.
+* nematicides
 * Ripening agents https://extension.umd.edu/resource/ethylene-and-regulation-fruit-ripening
   * https://www.atsdr.cdc.gov/csem/ethylene-propylene-glycol/toxicological_effects.html
   * from the atsdr article: ethylene glycol can be converted into oxolate, which is an Anti Nutrient that binds to calcium
