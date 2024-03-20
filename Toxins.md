@@ -50,6 +50,7 @@
   * Paperstraws https://scienceswitch.com/2023/08/27/90-of-eco-friendly-paper-straws-contain-traces-of-toxic-forever-chemicals/
   * Hot liquid paper cups are lined with PFAS and also can't be recycled
   * recycled plastic is even worse https://theconversation.com/dangerous-chemicals-found-in-recycled-plastics-making-them-unsafe-for-use-experts-explain-the-hazards-220498
+  * PFAS seemingly connected to cardiovascular diseases https://medicalxpress.com/news/2024-03-pfas-blood-ubiquitous-cardiovascular-diseases.html
 * Cashew nuts, toxic industry - https://www.slowfood.com/cashew-nuts-a-toxic-industry/
 * High fructose corn syruo - https://www.niddk.nih.gov/news/archive/2020/how-high-fructose-intake-trigger-fatty-liver-disease
 * Side Effects medications:
