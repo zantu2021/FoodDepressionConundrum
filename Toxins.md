@@ -46,6 +46,8 @@
 * Benzene in sunscreen https://www.valisure.com/valisure-newsroom/valisure-detects-benzene-in-sunscreen
   * gets absorbed through the skin quickly: https://pubmed.ncbi.nlm.nih.gov/10828140/
   * somehow finds its way into other beauty products: https://www.harpersbazaar.com/beauty/hair/a41912073/benzene-in-beauty-products-explained/
+* Xeno-Estrogens in skin care products - https://pubmed.ncbi.nlm.nih.gov/36746253/
+  * breast cancer markers go in daily use
 * PFAS - Everything is wrapped in plastics nowadays https://www.webmd.com/a-to-z-guides/what-is-pfas
   * Paperstraws https://scienceswitch.com/2023/08/27/90-of-eco-friendly-paper-straws-contain-traces-of-toxic-forever-chemicals/
   * Hot liquid paper cups are lined with PFAS and also can't be recycled
