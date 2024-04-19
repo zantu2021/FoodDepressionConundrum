@@ -10,6 +10,7 @@
 * https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121
 * https://www.livescience.com/64098-bacteria-brain-microbiome.html
 * Studying the link between the gut and mental health is personal for this scientist https://text.npr.org/1186092825
+* https://stantonmigraineprotocol.com/2021/12/06/migraine-treatment-and-prevention-by-the-stanton-migraine-protocol/
 
 ## Regeneration
 * Gums and Collagen - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7570157/
