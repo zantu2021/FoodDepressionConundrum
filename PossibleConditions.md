@@ -21,6 +21,11 @@
 # parasites
 * Toxoplasma - might cause all kinds of mental ailments, including depression https://pubmed.ncbi.nlm.nih.gov/24715687/
 
+# Headaches and Migraines
+* Seemingly too much or not enough salt can cause migraines https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5431073/
+  * I've had the feeling that I've got a problem with vasoconstriction - cold hands and feet, and big temperature differences in the face when migraines set in
+  * Seemingly there are a few vasoconstrictors out there, one of them the leftover chemical when the caffeine is being processed by the body
+  
 
 ## Poisoning - see Toxins.md
 
