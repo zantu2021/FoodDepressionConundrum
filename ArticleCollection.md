@@ -28,6 +28,7 @@
 * https://theferret.scot/16-toxic-chemicals-scottish-fish-farmers/
 * Ripening agents https://extension.umd.edu/resource/ethylene-and-regulation-fruit-ripening
   * https://www.atsdr.cdc.gov/csem/ethylene-propylene-glycol/toxicological_effects.html
+* curious article about how synthetic caffeine is made https://www.decadentdecaf.com/blogs/decadent-decaf-coffee-co/174589383-ever-wondered-where-the-caffeine-comes-from-in-soda-or-energy-drinks-answer-synthetic-caffeine
 
 ## Skin and other seemingly connected conditions
 * The curious ways your skin shapes your health, BBC https://archive.ph/a1383 
