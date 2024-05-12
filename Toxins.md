@@ -24,7 +24,7 @@
 * nematicides
 * Ripening agents https://extension.umd.edu/resource/ethylene-and-regulation-fruit-ripening
   * https://www.atsdr.cdc.gov/csem/ethylene-propylene-glycol/toxicological_effects.html
-  * from the atsdr article: ethylene glycol can be converted into oxolate, which is an Anti Nutrient that binds to calcium
+  * from the atsdr article: ethylene glycol can be converted into oxolate, which is and Anti Nutrient that binds to calcium
 * Chemicals used in Fish farming
   * http://ukmpa.marinebiodiversity.org/uk_sacs/activities/water-quality/wq8_22.htm
   * https://beyondpesticides.org/dailynewsblog/2022/05/pesticides-used-in-farmed-fish-operations-threaten-health-of-swimmers/
@@ -55,8 +55,9 @@
   * recycled plastic is even worse https://theconversation.com/dangerous-chemicals-found-in-recycled-plastics-making-them-unsafe-for-use-experts-explain-the-hazards-220498
   * PFAS seemingly connected to cardiovascular diseases https://medicalxpress.com/news/2024-03-pfas-blood-ubiquitous-cardiovascular-diseases.html
 * Cashew nuts, toxic industry - https://www.slowfood.com/cashew-nuts-a-toxic-industry/
-* High fructose corn syruo - https://www.niddk.nih.gov/news/archive/2020/how-high-fructose-intake-trigger-fatty-liver-disease
+* High fructose corn syrup - https://www.niddk.nih.gov/news/archive/2020/how-high-fructose-intake-trigger-fatty-liver-disease
 * Side Effects medications:
   * https://globalnews.ca/news/10006543/ozempic-stomach-paralysis-ubc-study/
 * Mycotoxins in mushrooms, all mushrooms should be cooked before eaten https://en.wikipedia.org/wiki/Agaritine
-* Chemical Toxicity and the Baby Bust (2020) [[pdf] | Hacker News (ycombinator.com) https://news.ycombinator.com/item?id=39385664](https://www.gmo.com/globalassets/articles/viewpoints/2020/jg_chemical-toxicity-and-the-baby-bust_2-20.pdf)https://www.gmo.com/globalassets/articles/viewpoints/2020/jg_chemical-toxicity-and-the-baby-bust_2-20.pdf
+* Chemical Toxicity and the Baby Bust (2020) [[pdf] | Hacker News (ycombinator.com) https://news.ycombinator.com/item?id=39385664](https://www.gmo.com/globalassets/articles/viewpoints/2020/jg_chemical-toxicity-and-the-baby-bust_2-20.pdf)
+* https://www.gmo.com/globalassets/articles/viewpoints/2020/jg_chemical-toxicity-and-the-baby-bust_2-20.pdf
