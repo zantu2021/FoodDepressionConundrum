@@ -11,6 +11,7 @@
 * https://www.livescience.com/64098-bacteria-brain-microbiome.html
 * Studying the link between the gut and mental health is personal for this scientist https://text.npr.org/1186092825
 * https://stantonmigraineprotocol.com/2021/12/06/migraine-treatment-and-prevention-by-the-stanton-migraine-protocol/
+* https://www.urmc.rochester.edu/news/publications/neuroscience/can-ketones-enhance-cognitive-function-and-protect-brain-networks
 
 ## Regeneration
 * Gums and Collagen - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7570157/
