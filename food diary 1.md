@@ -4,10 +4,9 @@
 I suspect that the coffee is somehow vaso-constricting, hence the cold palate that shows up so often, so I'm having a hard time cutting it out, I'm truly addicted to caffeine.
 Sucralose is geno-toxic even in small doses, so I stopped "this is food" eventually. Source: https://hn.algolia.com/?q=sucralose
 
-
-##  06.05.2023
 | Food  | Amount | Time of day | symptoms | mood, thoughts |
 | ------------- | ------------- |------------- |------------- |------------- |
+| 06.05.2023 |  |  |  |  |
 | "This is Food" | 250 ml  | 0630 | | 
 | - | - | - | 0830| Cold palate, nose, eyes, hands, Eyes burn  | Want to sleep |
 | decaf+coffee milk | 250 ml | 0915-0930 | Eyes burn, tired legs, pressure on the eyes and sinuses | "disgusting bacteria" |
